@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Out door shoot: Shelly'
-datePublished: '2016-04-27T22:54:04.585Z'
-dateModified: '2016-04-27T22:53:47.428Z'
+description: 'Outdoor Work: Shelly'
+datePublished: '2016-04-27T23:01:06.782Z'
+dateModified: '2016-04-27T23:00:59.319Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-27-out-door-shoot-shelly.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,13 +18,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-27-out-door-shoot-shelly.md
-published: true
 url: outdoor-shoot-shelly/index.html
 _type: Article
 
 ---
-Out door shoot: Shelly
+Outdoor Work: Shelly
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cafa92bc-5087-45ab-9f2b-e3fbd8837d63.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0d9a53e-5f3d-4130-91ff-169d411d3034.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2e1348f-493f-4012-8985-d21cb21e5fc6.jpg)
