@@ -1,28 +1,40 @@
-name: vip vegas
 favicon: null
-layout_spectrum: 0.67018
-typography_spectrum: 0.7521
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: vip vegas
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#010101'
-    - '#fffffd'
-    - '#89523e'
-    - '#d3263a'
-    - '#c0c0be'
-  brandStrength: 0.5
-  lightness: 0.3125
-  saturation: 0.1875
-  rhythmicContrast: 0.5
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.983871
+  brandStrength: 0.5
+  lightness: 0.1875
+  brandColors:
+    - '#030303'
+    - '#fefefe'
+    - '#e89f68'
+    - '#b5754f'
+    - '#414548'
+  rhythmicContrast: 0.8909156
+typography_spectrum: 0.7521
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.75035
+analytics:
+  twitter: null
+  google: null
+  facebook: null
