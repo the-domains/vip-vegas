@@ -14,6 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: vip vegas photography
 cta:
   domain: null
   bucket: null
