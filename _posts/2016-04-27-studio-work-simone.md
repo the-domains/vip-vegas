@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Studio Work: Simone'
-datePublished: '2016-04-27T19:27:52.508Z'
-dateModified: '2016-04-27T19:27:36.832Z'
+datePublished: '2016-04-27T19:39:13.052Z'
+dateModified: '2016-04-27T19:38:47.669Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-27-studio-work-simone.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,13 +18,10 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-27-studio-work-simone.md
-published: true
 url: studio-work-simone/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8742552f-f1f3-42da-bb07-9cd99c6e80d7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7eae9d91-25eb-4bad-b379-f69dd22d2307.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/259d2b80-58cb-4482-9b2a-0433c5acfc70.jpg)
 
