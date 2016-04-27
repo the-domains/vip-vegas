@@ -1,7 +1,7 @@
 name: vip vegas
 favicon: null
-layout_spectrum: 0.3617371376603842
-typography_spectrum: 0.1032621746417135
+layout_spectrum: 1
+typography_spectrum: 0.7521
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#030303'
+    - '#fefefe'
+    - '#e89f68'
+    - '#b5754f'
+    - '#414548'
   brandStrength: 0.8092777824494988
   lightness: 0.07881624205037951
-  saturation: 0.196624337695539
+  saturation: 0.1875
   rhythmicContrast: 0.8909155642613769
 purpose: []
