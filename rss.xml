@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[vip vegas]]></title>
-        <description><![CDATA[vip vegas]]></description>
+        <title><![CDATA[vip vegas photography]]></title>
+        <description><![CDATA[vip vegas photography]]></description>
         <link>https://thegrid.ai/vip-vegas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 19:47:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 22:46:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vip-vegas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/981e849c-5fc5-440d-8223-32a63e255bab.jpg">]]></description>
+            <link>https://thegrid.ai/vip-vegas/studio-work-kelsey/index.html</link>
+            <guid isPermaLink="false">8d283af8-8cde-4689-adb4-34719e2c13db</guid>
+            <pubDate>Wed, 27 Apr 2016 22:46:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fcaaff6-bb53-4da7-a32c-36e3eb80bab7.jpg">]]></description>
+            <link>https://thegrid.ai/vip-vegas/dcd1fd5b-23a9-4170-87ff-1dd333fac9b6/index.html</link>
+            <guid isPermaLink="false">dcd1fd5b-23a9-4170-87ff-1dd333fac9b6</guid>
+            <pubDate>Wed, 27 Apr 2016 20:06:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/322f5816-a610-4cc8-b764-466e7bab5e8d.jpg">]]></description>
@@ -47,13 +61,6 @@
             <link>https://thegrid.ai/vip-vegas/studio-work-sabrina/index.html</link>
             <guid isPermaLink="false">6f8763f5-0162-4f1d-9ca2-91b3902a5269</guid>
             <pubDate>Wed, 27 Apr 2016 19:11:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/981e849c-5fc5-440d-8223-32a63e255bab.jpg">]]></description>
-            <link>https://thegrid.ai/vip-vegas/studio-work-kelsey/index.html</link>
-            <guid isPermaLink="false">8d283af8-8cde-4689-adb4-34719e2c13db</guid>
-            <pubDate>Wed, 27 Apr 2016 18:57:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
