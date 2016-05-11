@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[vip vegas photography]]></title>
-        <description><![CDATA[vip vegas photography]]></description>
+        <title><![CDATA[vip vegas photography (Instagram @vipvegasphotography)]]></title>
+        <description><![CDATA[vip vegas photography (Instagram @vipvegasphotography)]]></description>
         <link>https://thegrid.ai/vip-vegas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 22:36:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 18:13:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vip-vegas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/797ca675-7eb7-401e-85e2-15a446de880f.jpg">]]></description>
+            <link>https://thegrid.ai/vip-vegas/a24fd41a-0341-4a1d-abce-8d18eb4415c6/index.html</link>
+            <guid isPermaLink="false">a24fd41a-0341-4a1d-abce-8d18eb4415c6</guid>
+            <pubDate>Wed, 11 May 2016 18:12:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6600917-4090-41ce-a7d2-316f73963e07.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vip-vegas/dcd1fd5b-23a9-4170-87ff-1dd333fac9b6/index.html</link>
             <guid isPermaLink="false">dcd1fd5b-23a9-4170-87ff-1dd333fac9b6</guid>
             <pubDate>Wed, 27 Apr 2016 20:06:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38ff2b42-8ce3-448c-bf5d-11795cc36f4f.jpg">]]></description>
-            <link>https://thegrid.ai/vip-vegas/42199918-9b20-4827-bc79-811a106be5a2/index.html</link>
-            <guid isPermaLink="false">42199918-9b20-4827-bc79-811a106be5a2</guid>
-            <pubDate>Wed, 27 Apr 2016 19:46:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
