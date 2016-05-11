@@ -4,8 +4,15 @@
         <description><![CDATA[vip vegas photography (Instagram @vipvegasphotography)]]></description>
         <link>https://thegrid.ai/vip-vegas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 18:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 18:18:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vip-vegas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fcaaff6-bb53-4da7-a32c-36e3eb80bab7.jpg">]]></description>
+            <link>https://thegrid.ai/vip-vegas/dcd1fd5b-23a9-4170-87ff-1dd333fac9b6/index.html</link>
+            <guid isPermaLink="false">dcd1fd5b-23a9-4170-87ff-1dd333fac9b6</guid>
+            <pubDate>Wed, 11 May 2016 18:18:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9981a5c-72e1-4d46-9cd7-bba07f965bb5.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vip-vegas/studio-work-simone/index.html</link>
             <guid isPermaLink="false">0788c123-7abd-4c09-8469-6e6fec65dd94</guid>
             <pubDate>Wed, 27 Apr 2016 22:46:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fcaaff6-bb53-4da7-a32c-36e3eb80bab7.jpg">]]></description>
-            <link>https://thegrid.ai/vip-vegas/dcd1fd5b-23a9-4170-87ff-1dd333fac9b6/index.html</link>
-            <guid isPermaLink="false">dcd1fd5b-23a9-4170-87ff-1dd333fac9b6</guid>
-            <pubDate>Wed, 27 Apr 2016 20:06:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
