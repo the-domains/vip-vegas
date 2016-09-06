@@ -1,41 +1,41 @@
-name: vip vegas
-favicon: null
-layout_spectrum: 0.50564
-typography_spectrum: 0.7521
+title: vip vegas photography (Instagram @vipvegasphotography)
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: vip vegas photography (Instagram @vipvegasphotography)
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.983871
+  brandStrength: 0.75
+  lightness: 0.5358423
   brandColors:
     - '#0b0a0f'
     - '#51402e'
     - '#c2ae95'
     - '#9e6134'
     - '#697374'
-  brandStrength: 0.75
-  lightness: 0.375
-  saturation: 0.983871
   rhythmicContrast: 0.8909156
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: vip vegas
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.9086022
+layout_spectrum: 1
